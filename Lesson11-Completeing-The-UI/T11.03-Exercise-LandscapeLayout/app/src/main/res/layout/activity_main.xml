@@ -20,7 +20,7 @@
         android:layout_height="match_parent">
 
         <TextView
-            android:text="@string/passenger_label"
+            android:text="TEST"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textViewPassengerLabel"
